@@ -1,0 +1,11 @@
+body{background-color:aquamarine;}
+#nav-bar{display:flex;}
+@media (orientation:landscape){
+			#header-img{display: block; }
+		}
+@media (orientation:portrait){
+			#header-img{display:block; }
+		}
+.nav-link{ margin-left:2%; }
+#submit{margin-top:2%; }
+#email{margin-top:-1%; }
